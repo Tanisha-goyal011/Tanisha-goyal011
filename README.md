@@ -1,3 +1,5 @@
+![logo](https://github.com/Tanisha-goyal011/Tanisha-goyal011/blob/main/github%20banner.jpg)
+
 <h1 align="center">Hi 👋, I'm Tanisha Goyal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 

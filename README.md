@@ -1,7 +1,7 @@
 ![logo](https://github.com/Tanisha-goyal011/Tanisha-goyal011/blob/main/github%20banner.jpg)
 
 <h1 align="center">Hi 👋, I'm Tanisha Goyal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Web developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
 <h3 align="left">Connect with me:</h3>

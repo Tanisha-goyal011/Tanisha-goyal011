@@ -8,7 +8,7 @@
 
 <p align="left">
 <a href="https://twitter.com/tanisha26841" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tanisha26841" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tanisha goyal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanisha goyal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tanisha-goyal-50365a2b5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanisha-goyal-50365a2b5" height="30" width="40" /></a>
 <a href="https://instagram.com/coding_girl19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="coding_girl19" height="30" width="40" /></a>
 </p>
 

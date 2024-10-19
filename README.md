@@ -3,6 +3,14 @@
 <h1 align="center">Hi 👋, I'm Tanisha Goyal</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
+- 🌱 I’m currently learning **Full Stack Development**
+
+- 📫 How to reach me **tanishagoyal0110@gmail.com**
+
+- 📄 Know about my experiences [https://1drv.ms/w/c/e13fd69ba73ab33c/EZ6MROym8cxDlhHCWlvmbisBrZ7uhqDSh4OrPKmoBuS0ag?e=J1ZJlC](https://1drv.ms/w/c/e13fd69ba73ab33c/EZ6MROym8cxDlhHCWlvmbisBrZ7uhqDSh4OrPKmoBuS0ag?e=J1ZJlC)
+
+- ⚡ Fun fact **I am funny 😅**
+
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
 <h3 align="left">Connect with me:</h3>
 

@@ -16,7 +16,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanisha-goyal011" alt="tanisha-goyal011" /></a> </p>
 
 
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

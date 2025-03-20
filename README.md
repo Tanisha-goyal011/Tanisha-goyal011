@@ -1,12 +1,16 @@
-<h1 align="center">Hello, I'm Tanisha Goyal</h1>
+<h1 align="center">Hello👋, I'm Tanisha Goyal</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
 <h3 align="left">👩‍💻 About Me </h3>
-- 🌱 I’m currently learning *Full Stack Development*
+- 🔭 I'm currently working on <b>some mini projects for college-related work</b>
 
-- 🎯Goals: *Became a Software Engineer*
+- 🌱 I’m currently learning <b>Full Stack Development</b> 
 
-- 📫 How to reach me *goeltanisha810@gmail.com*
+- 📫 How to reach me goeltanisha810@gmail.com
+
+- ⚡Fun fact <b>I sleep a lot and work too much </b>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanisha-goyal011&label=Profile%20views&color=0e75b6&style=flat" alt="tanisha-goyal011" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanisha-goyal011" alt="tanisha-goyal011" /></a> </p>
